@@ -1,0 +1,180 @@
+#title
+{
+    background: #ff4c68;
+    color: #fff;
+    /* position: relative; */
+    padding-bottom: 150px;
+}
+body{
+    font-style: Montserrat-Black;
+}
+h1{
+    font-style: Montserrat-Black;
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+.container-fluid
+{
+    padding: 3% 15%;
+}
+.navbar
+{
+    padding: 0 0 4.5rem;
+
+}
+#brond
+{
+    font-weight: bold;
+    font-size: 2.5rem;
+    font-family: "Ubuntu";
+
+}
+.nav-item
+{
+padding: 0px 18px;
+}
+.nav-link
+{
+font-size: 1.2rem;
+font-style: Montserrat-Black;
+
+}
+.bton
+{
+    margin: 5% 3% 5% 0%;
+}
+.title-image
+{
+    width: 40%;
+    height: 210%;
+    margin: auto;
+    transform: rotate(25deg);
+    position: absolute;
+}
+h3
+{
+    font-style: Montserrat-Black;
+    font-size: 1.5rem;
+    /* line-height: 1.5; */
+    /* text-align: center; */
+}
+.feature
+{
+    color: #8f8f8f;
+}
+#features
+{
+    padding: 7% 15%;
+    position: relative;
+    background-color: #fff;
+    z-index: 1;
+
+}
+.bodf
+{
+text-align: center;
+padding: 4%;
+}
+.icon
+{
+    color: #ef8172;
+    /* margin-bottom: 1rem; */
+    height: 30%;
+    width: 30%;
+    margin-bottom: 20px;
+    margin: auto;
+
+}
+.icon:hover
+{
+    color: #ff4c68;
+}
+#testimonials
+{
+    padding: 7% 15%;
+    text-align: center;
+font-style: Montserrat-Bold;
+    /* font-size: 3rem; */
+    background-color: #ef8172;
+}
+.testimonial-img
+{
+    border-radius: 100%;
+    height: 20%;
+    width: 20%;
+}
+#press
+{
+    /* margin: 3px; */
+    background-color: #ef8172;
+    padding-bottom: 3%;
+    padding: 23px 25px;
+}
+.img-press
+{
+width: 200px;
+margin: 5px;
+
+
+}
+/* pricing */
+#pricing
+{
+    text-align: center;
+    padding: 100px;
+}
+.pricing-column
+{
+    padding: 2% 3%;
+}
+@media (max-width:900px)
+{
+    #title
+    {
+        text-align: center;
+    }
+    .title-image
+    {
+        position: relative;
+        transform: rotate(0deg);
+        width: 40%;
+        height: 100%;
+    }
+}
+#cta
+{
+    background: #ff4c68;
+    color: #fff;
+    /* position: relative; */
+    /* padding-bottom: 150px; */
+    text-align: center;
+    padding: 3% 15%;
+    
+}
+h3{
+    font-style: Montserrat-Black;
+    font-size: 3.5rem;
+    line-height: 1.5;
+    width: 40%;
+    margin: auto;
+    text-align: center;
+}
+#last
+{
+    width: 2%;
+    padding: 2% 3%;
+    align-items: center;
+    text-align: center;
+}
+.loast
+{
+    text-align: center;
+}
+.footer
+{
+    text-align: center;
+}
+.last-p
+{
+    text-align: center;
+}
